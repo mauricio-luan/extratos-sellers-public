@@ -11,6 +11,8 @@ Este script foi desenvolvido para resolver um problema real do dia a dia: a emis
 Antes da automação, o processo era totalmente manual, repetitivo e demorado, além de estar sujeito a erros humanos, já que cada extrato precisava ser feito individualmente.
 
 Para eliminar essas dificuldades, estudei a lógica por trás da tarefa e implementei este programa, que agora executa todo o processo de forma automática.
+Para além do já dito, a iniciativa de desenvolver essa solução também está atrelada a uma tarefa a mim dada. Futuramente, terei que desenvolver uma solução que faça algo parecido com essa, mas não com arquivo de planilhas e sim JSON, usando API. Portanto, esse projeto serviu também como um estudo de caso.
+
 
 ## Funcionamento
 
